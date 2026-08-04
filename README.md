@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0014-longest-common-prefix) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 ## Tree
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0014-longest-common-prefix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Hash Table
 |  |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
