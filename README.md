@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/2073-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
