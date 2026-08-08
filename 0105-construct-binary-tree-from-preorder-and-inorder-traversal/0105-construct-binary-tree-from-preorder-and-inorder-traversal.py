@@ -11,7 +11,7 @@ class Solution:
             return None
         root_val = preorder[ps]
         root = TreeNode(root_val)
-
+ 
         inroot = hm[root_val]
         nodeleft = inroot-ins
 
@@ -20,14 +20,5 @@ class Solution:
         return root
 
     def buildTree(self, preorder: List[int], inorder: List[int]) -> Optional[TreeNode]:
-        # hm = {value:ind for ind,val in enumerate(inorder)}
-        # ins, ine = 0, len(inorder)-1
-        # ps,pe = 0,len(preorder)-1
-        # if ins > ine or ps > pe:
-        #     return None
-        # root_val = preorder[ps]
-
-        # root.left = self.build(ins,ine,ps,pe)
-        # root.right = self.
         return self.build(0,len(preorder)-1,0,len(inorder)-1,inorder,preorder)
         
