@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0572-subtree-of-another-tree) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0572-subtree-of-another-tree) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0572-subtree-of-another-tree) |
@@ -93,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0572-subtree-of-another-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
