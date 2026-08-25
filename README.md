@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Trie
 |  |
 | ------- |
