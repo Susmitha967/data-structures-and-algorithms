@@ -15,19 +15,18 @@ class Codec:
         """
         if root is None:
             return ""
-        res = []
         q = deque()
         q.append(root)
+        s = []
         while q:
-            node = q.popleft()
-
-            if node is None:
-                res.append("#")
+            cur = q.popleft()
+            if cur is None:
+                s.append("#")
             else:
-                res.append(str(node.val))
-                q.append(node.left)
-                q.append(node.right)
-        return ",".join(res)
+                s.append(str(cur.val))
+                q.append(cur.left)
+                q.append(cur.right)
+        return ",".join(s)
     def deserialize(self, data):
         """Decodes your encoded data to tree.
         
@@ -36,25 +35,23 @@ class Codec:
         """
         if not data:
             return None
-        node = data.split(",")
-        root = TreeNode(int(node[0]))
-        q = deque([root])
+        s = data.split(",")
+        root = TreeNode(int(s[0]))
         i = 1
+        q = deque([root])
+        # q.append([root])
         while q:
             cur = q.popleft()
-            if node[i] != '#':
-                cur.left = TreeNode(int(node[i]))
+            if s[i] != "#":
+                cur.left = TreeNode(int(s[i]))
                 q.append(cur.left)
             i += 1
-
-            if node[i] != '#':
-                cur.right = TreeNode(int(node[i]))
+            if s[i] != '#':
+                cur.right = TreeNode(int(s[i]))
                 q.append(cur.right)
             i += 1
-        return root 
-
-        
-
+        return root
+       
 
 
 
