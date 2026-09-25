@@ -211,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0295-find-median-from-data-stream) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
