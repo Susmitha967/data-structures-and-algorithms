@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0538-convert-bst-to-greater-tree) |
+| [0547-number-of-provinces](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0449-serialize-and-deserialize-bst) |
+| [0547-number-of-provinces](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Design
@@ -218,4 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0620-not-boring-movies) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
