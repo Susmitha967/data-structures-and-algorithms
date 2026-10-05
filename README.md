@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Design
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/1020-number-of-enclaves) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/1020-number-of-enclaves) |
 ## Backtracking
 |  |
 | ------- |
