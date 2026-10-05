@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0014-longest-common-prefix) |
+| [0079-word-search](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0079-word-search) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 ## Tree
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0079-word-search](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0200-number-of-islands) |
@@ -240,7 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0994-rotting-oranges) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Susmitha967/data-structures-and-algorithms/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
